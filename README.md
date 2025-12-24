@@ -1,6 +1,6 @@
 Cloud-Sync Task Orchestrator 🚀
 📌 Overview
-[cite_start]This project is a high-performance RESTful API designed to bridge local task management with cloud-scale data persistence. [cite_start]Built as part of a technical portfolio for the Google STEP/Associate Internship, it demonstrates a deep understanding of asynchronous Python (FastAPI) and NoSQL cloud architecture (Google Firebase/Firestore).   
+This project is a high-performance RESTful API designed to bridge local task management with cloud-scale data persistence.  
 
 🛠 Technical Stack
 
