@@ -3,19 +3,15 @@ Cloud-Sync Task Orchestrator 🚀
 [cite_start]This project is a high-performance RESTful API designed to bridge local task management with cloud-scale data persistence. [cite_start]Built as part of a technical portfolio for the Google STEP/Associate Internship, it demonstrates a deep understanding of asynchronous Python (FastAPI) and NoSQL cloud architecture (Google Firebase/Firestore).   
 
 🛠 Technical Stack
-[cite_start]
 
 Language: Python 3.10+    
 
-[cite_start]
 
 Framework: FastAPI (Asynchronous ASGI)    
 
-[cite_start]
 
 Database: Google Cloud Firestore (NoSQL)    
 
-[cite_start]
 
 Validation: Pydantic (Data Integrity)    
 
@@ -60,10 +56,8 @@ Step D (GET): Copy the id from the response. [cite_start]Expand the GET /tasks/{
 
 Real-Time Sync: Leveraged Google Cloud Firestore for schema-less, real-time data persistence.   
 
-[cite_start]
 
 Performance Optimization: Utilized async methods to handle concurrent requests with sub-second latency.   
 
-[cite_start]
 
 Professional API Design: Implemented standardized JSON response structures and HTTP status codes.
